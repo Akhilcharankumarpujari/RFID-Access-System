@@ -96,4 +96,4 @@ See `code/rfid_access.ino`
 ---
 
 ## 👨‍💻 Author
-Akhil charan kumar
+Akhil charan kumar pujari
